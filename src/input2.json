@@ -1,0 +1,63 @@
+[
+  {
+    "id": 1,
+    "start": "09:00",
+    "duration": 60
+  },
+  {
+    "id": 1,
+    "start": "10:00",
+    "duration": 60
+  },
+  {
+    "id": 1,
+    "start": "11:00",
+    "duration": 60
+  },
+  {
+    "id": 1,
+    "start": "12:00",
+    "duration": 60
+  },
+  {
+    "id": 1,
+    "start": "13:00",
+    "duration": 60
+  },
+  {
+    "id": 1,
+    "start": "14:00",
+    "duration": 60
+  },
+  {
+    "id": 1,
+    "start": "15:00",
+    "duration": 60
+  },
+  {
+    "id": 1,
+    "start": "16:00",
+    "duration": 60
+  },
+  {
+    "id": 1,
+    "start": "17:00",
+    "duration": 60
+  },
+  {
+    "id": 1,
+    "start": "18:00",
+    "duration": 60
+  },
+  {
+    "id": 1,
+    "start": "19:00",
+    "duration": 60
+  },
+  {
+    "id": 1,
+    "start": "20:00",
+    "duration": 60
+  }
+
+]

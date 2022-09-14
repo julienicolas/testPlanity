@@ -64,3 +64,25 @@
   width: 100%;
   min-height: 10px;
 }
+
+
+
+.custom-alert{
+  width: 80%;
+  margin-left: 10%;
+  position: absolute;
+  z-index: 10;
+  top: 0;
+  padding: 20px;
+  background-color: tomato;
+  animation: 1s Custom-alert-fade;
+}
+
+@keyframes Custom-alert-fade {
+  from {
+    transform: translateY(-100px);
+  }
+  to {
+    transform: translateY(0px);
+  }
+}
